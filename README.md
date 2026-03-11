@@ -1,6 +1,9 @@
 # idol-light-sticks-config
 
-Remote configuration for the [Idol Light Sticks](https://github.com/hamzaboularbah/idol-light-sticks-app) app, served via GitHub Pages.
+Remote configuration for the [Idol Light Sticks](https://github.com/waadrarii/idol-light-sticks-app) app, served via GitHub Pages.
+
+> **Note:** This repo must remain public so GitHub Pages can serve the JSON on the free plan.
+> The content is non-sensitive — ad unit IDs are already embedded in the compiled app binary.
 
 ## Files
 
@@ -19,5 +22,5 @@ Controls AdMob ad unit IDs and interstitial frequency without requiring an app u
 ## URL
 
 ```
-https://hamzaboularbah.github.io/idol-light-sticks-config/admob.json
+https://waadrarii.github.io/idol-light-sticks-config/admob.json
 ```
