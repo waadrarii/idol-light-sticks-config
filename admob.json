@@ -1,5 +1,5 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
   "banner_id": "ca-app-pub-3527018124413101/2621086298",
   "interstitial_id": "ca-app-pub-3527018124413101/9178901577",
   "interstitial_every_n": 3,
