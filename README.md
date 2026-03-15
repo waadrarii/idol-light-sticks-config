@@ -19,8 +19,19 @@ Controls AdMob ad unit IDs and interstitial frequency without requiring an app u
 
 **To update:** Edit `admob.json` directly on GitHub and commit. Changes take effect on next app launch after the 1-hour cache TTL expires.
 
-## URL
+### `config.json`
+
+General app configuration served remotely to avoid requiring an app update.
+
+| Key | Description |
+|-----|-------------|
+| `request_url` | URL opened when users tap "Request a Light Stick" — set to `null` or remove to hide the button |
+
+**To update:** Edit `config.json` directly on GitHub and commit. Changes take effect on next app launch after the 1-hour cache TTL expires.
+
+## URLs
 
 ```
 https://waadrarii.github.io/idol-light-sticks-config/admob.json
+https://waadrarii.github.io/idol-light-sticks-config/config.json
 ```
