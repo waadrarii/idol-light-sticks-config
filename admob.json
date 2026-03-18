@@ -3,5 +3,15 @@
   "banner_id": "ca-app-pub-3527018124413101/2621086298",
   "interstitial_id": "ca-app-pub-3527018124413101/9178901577",
   "interstitial_every_n": 3,
-  "rewarded_id": "ca-app-pub-3527018124413101/6532411149"
+  "rewarded_id": "ca-app-pub-3527018124413101/6532411149",
+  "ios": {
+    "banner_id": "ca-app-pub-3527018124413101/2621086298",
+    "interstitial_id": "ca-app-pub-3527018124413101/9178901577",
+    "rewarded_id": "ca-app-pub-3527018124413101/6532411149"
+  },
+  "android": {
+    "banner_id": "TODO",
+    "interstitial_id": "TODO",
+    "rewarded_id": "TODO"
+  }
 }
